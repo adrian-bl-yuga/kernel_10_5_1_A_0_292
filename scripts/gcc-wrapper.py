@@ -63,6 +63,13 @@ allowed_warnings = set([
    "inet_hashtables.h:356",
    "xc4000.c:1049",
    "xc4000.c:1063",	
+   "dm9601.c:210",
+   "dm9601.c:253",
+   "dynamic_debug.h:75",
+   "swab.h:34",
+   "hci_conn.c:407",
+   "f_qdss.c:586",
+   "f_qdss.c:740",
  ])
 
 # Capture the name of the object file, can find it.
