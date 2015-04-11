@@ -1,1 +1,1 @@
-# kernel_10_5_1_A_0_292
+This is an empty branch - use caf_lp51 or sony_lp51
